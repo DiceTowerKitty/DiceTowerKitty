@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DiceTowerKitty
+- 👋 Hi, my name is Katie Windatt
 - 👀 I’m interested in dungeons and dragons, game design and databases
 - 🌱 I’m currently learning Ruby, Python, Node.Js and looking to learn Rust
 - 💞️ I’m looking to collaborate on smaller projects to start coding outside of school
-- 📫 How to reach me ... Not sure the best way because I am new to Github
+- 📫 You can reach me via email at katiewindatt@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ... Rabbits can see behind them without moving their heads
 
